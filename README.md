@@ -7,7 +7,7 @@ React와 TypeScript 기반의 웹 개발 경험을 통해 사용자의 불편을
 
 📚 Tech Stack
 ---
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nextjs,html,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,)](https://skillicons.dev)
 
 💄 Styling
 ---
